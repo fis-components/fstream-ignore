@@ -1,0 +1,14 @@
+{
+    "name": "fstream-ignore",
+    "description": "A thing for ignoring files based on globs",
+    "repos": "https://github.com/isaacs/fstream-ignore.git",
+    "main": "ignore.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "minimatch": "~0.2.0",
+        "fstream": "~0.1.17",
+        "inherits": "2"
+    },
+    "version": "0.0.7"
+}
